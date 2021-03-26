@@ -1,4 +1,4 @@
-# Arithmetic Shapes Calculation
+# Arithmetic Shapes Calculator
  RubikPay Assessment
 
 1. Install npm
